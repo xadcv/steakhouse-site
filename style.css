@@ -4,6 +4,21 @@
 /*—————————— Modifications made by Steakhouse —————*/
 /* test */
 
+
+/* Customizations */
+
+.notion-table-of-contents {
+    min-height: 16px !important;
+    letter-spacing: -0.5px !important;
+    margin-bottom: 16px !important;
+    font-weight: 600 !important;
+    font-size: 24px !important;
+    line-height: 1.6 !important;
+}
+
+
+/* End Customizations */
+
 * {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
